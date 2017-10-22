@@ -1,0 +1,5 @@
+Debug/
+Release/
+dump.txt
+*.filters
+*.vcxproj
